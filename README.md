@@ -14,7 +14,7 @@ Questions
 
 1-Assuming that you aren't sure whether you're currently inside of a Git repository, write the command (or commands) that will give you this information. Git branch 
 
-2-Assuming that you are currently within a Git repository, write the command (or commands) that will create a new file named 'hello-world.txt' then stage and commit it.
+2-Assuming that you are currently within a Git repository, write the command (or commands) that will create a new  file named 'hello-world.txt' then stage and commit it. First write touch and the name that you file then git add and finish git commit. 
 
 3-Assuming that you are currently within a Git repository that contains a file named 'README.md', write the command (or commands) that will display any uncommitted changes made to this file.
 
