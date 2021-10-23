@@ -1,5 +1,7 @@
 Questions
 
+Just i am checking something
+
 Introduction
 Use this document as a starting point for the Class 6 exercise. Please note that these questions will test your knowledge of both the Git CLI and the command line in general.
 
